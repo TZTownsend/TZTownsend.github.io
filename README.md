@@ -13,4 +13,9 @@ I'm currently learning about:
 **Frameworks**: WPF, MAUI  
 **Tools**: git
 
+When I'm not programming you will find me:
+- solving sudoku
+- multiday hiking the Bibbulmun Track
+- knitting or crocheting (or teaching others these skills)
+
 ![Tiffany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TZTownsend&show_icons=true)
